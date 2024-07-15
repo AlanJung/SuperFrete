@@ -1,6 +1,9 @@
 # superfrete
 Avaliação SuperFrete Cypress
 
+## Pré requisito:
+   Instalar nodeJS na última versão estável
+   
 ## Como executar os testes
 
 Clonar repositorio: https://github.com/AlanJung/superfrete
